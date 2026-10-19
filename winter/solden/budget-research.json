@@ -1,0 +1,78 @@
+{
+  "checked": "2026-10-19",
+  "currency": "EUR",
+  "fuel": {
+    "round_trip_km_assumption": [
+      2000,
+      2200
+    ],
+    "litres_per_100km": [
+      5,
+      6
+    ],
+    "eur_per_litre_assumption": [
+      1.6,
+      1.9
+    ],
+    "cost_range": [
+      160,
+      250.8
+    ]
+  },
+  "tolls": {
+    "austria_10day_2026_reference": 12.8,
+    "2027_confirmed": false,
+    "budget_allowance": 15,
+    "route": "via Germany, Kufstein and Innsbruck; no Czech transit; parking and local driving excluded"
+  },
+  "driving_rounded": [
+    180,
+    270
+  ],
+  "passes": {
+    "season": "2026/27 peak",
+    "adults": 2,
+    "five_consecutive_days_each": 409,
+    "two_total": 818,
+    "flexible_5in7_each": 431.5,
+    "flexible_two_total": 863
+  },
+  "rental": {
+    "days": 5,
+    "ski_pairs": 2,
+    "pole_pairs": 2,
+    "boot_pairs": 1,
+    "sunup_skis_each": 100,
+    "sunup_boots": 89,
+    "sunup_before_poles": 289,
+    "sport4you_daily_calculation": 370,
+    "planning_range": [
+      300,
+      400
+    ],
+    "season_confirmed": false
+  },
+  "subset_total_exact_range": [
+    1298,
+    1488
+  ],
+  "subset_total_rounded": [
+    1300,
+    1500
+  ],
+  "excluded": [
+    "accommodation",
+    "food",
+    "parking",
+    "local driving",
+    "optional rental insurance",
+    "storage"
+  ],
+  "sources": {
+    "passes": "https://www.soelden.com/en/activities/winter/skiing-snowboarding/skipasses-prices/winter",
+    "sunup": "https://www.sunup.at/ski-snowboard-verleih/preise/",
+    "sport4you": "https://www.sport4you.at/en/rental/ski-rental/rental-prices/",
+    "toll": "https://bmp.asfinag.at/en/vignette-and-section-tolls/vignette/",
+    "germany": "https://www.adac.de/reise-freizeit/maut-vignette/deutschland/"
+  }
+}
