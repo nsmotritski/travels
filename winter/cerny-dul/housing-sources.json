@@ -1,0 +1,72 @@
+{
+  "checked": "2026-11-01",
+  "dates": "2027-02-11/2027-02-14",
+  "availability_confirmed": false,
+  "eur_czk_planning_rate": 25,
+  "properties": [
+    {
+      "name": "Pod Černou 5",
+      "source": "https://www.e-chalupy.cz/rudnik-ubytovani-bolkov-chalupa-pod-cernou-5-o23653",
+      "price_en": "€100 (2 500 Kč) / night",
+      "conditions_en": "Two-night minimum; weekend €240 (6 000 Kč). A three-night total needs a quote. Electricity and local tax extra; linen included."
+    },
+    {
+      "name": "Apartmán AVIATIK",
+      "source": "https://www.apartmanyaviatik-cernydul.cz/ubytovani/cenik/",
+      "price_en": "≈€420 (10 500 Kč) / 3 nights",
+      "conditions_en": "Five-person calculation: €140 (3 500 Kč)/night. Two-night minimum, local tax included. Published tariff effective from 2023; confirm 2027 rate and extras."
+    },
+    {
+      "name": "Chalupa U Mariky",
+      "source": "https://www.e-chalupy.cz/chalupa-u-mariky-cista-v-krkonosich-pronajem-o16860",
+      "price_en": "≈€344 (8 591 Kč) / weekend",
+      "conditions_en": "2027 winter tariff; minimum two nights. Three-night price needs a quote: the earlier weekly-rate calculation was not a short-stay offer. Energy and local tax extra; refundable deposit €200 (5 000 Kč)."
+    },
+    {
+      "name": "Vila v Krkonoších",
+      "source": "https://www.pronajmy.cz/objekt/8mhgfuwmx4-vila-v-krkonosich",
+      "price_en": "€240 (6 000 Kč) / weekend",
+      "conditions_en": "Two-night minimum. Ask for Thursday–Sunday and the exact villa/address. Energy, linen and cleaning included in the published tariff; local tax extra. February 2027 price unconfirmed."
+    },
+    {
+      "name": "Bonites · chata Krkonoše",
+      "source": "https://www.e-chalupy.cz/bonites-chata-krkonose-o4400",
+      "price_en": "€112 (2 800 Kč) / night",
+      "conditions_en": "Conditional reserve: published 2026 winter rules require five nights, so it does not fit our three-night draft unless the host makes an exception. Energy and cleaning included; confirm 2027 terms."
+    },
+    {
+      "name": "Chata Aperolka",
+      "source": "https://www.e-chalupy.cz/chata-aperolka-cista-v-krkonosich-pronajem-o16356",
+      "price_en": "≈€480–540 (12 000–13 500 Kč) / 3 nights",
+      "conditions_en": "Two-night minimum. Weekdays €140 (3 500 Kč), weekend nights €200 (5 000 Kč); confirm how Thursday–Sunday is charged. Energy, linen and cleaning included; local tax extra. Deposit €160 (4 000 Kč)."
+    },
+    {
+      "name": "Apartmán Alfa 11",
+      "source": "https://www.blackmine.cz/cenik/",
+      "price_en": "€640 (16 000 Kč) / 3 nights",
+      "conditions_en": "Historical 2025/26 winter package, not a confirmed 2027 price. The working link now opens the owner’s tariff. That tariff includes energy and local fees; ask for 11–14 February and cancellation terms."
+    },
+    {
+      "name": "Apartmány Pampeliška · 3+kk",
+      "source": "https://e-penziony.cz/apartmany-pampeliska",
+      "price_en": "€160 (4 000 Kč) / night",
+      "conditions_en": "Conditional reserve: the price table allows three winter nights, but the description says seven. February has its own holiday season. Confirm minimum stay, five-person rate and cleaning before considering it suitable."
+    },
+    {
+      "name": "Happy Hill 32",
+      "source": "https://happyhill32.cz/cs/",
+      "price_en": "Three-night quote required",
+      "conditions_en": "Conditional reserve: published winter reference €960 (24 000 Kč) per week. This is not a three-night price. Confirm the exact dates, minimum stay, full fees and parking with the booking provider."
+    },
+    {
+      "name": "Chalupa MausHaus",
+      "source": "https://www.ceskehory.cz/ubytovani/chalupa-maushaus-rudnik.html",
+      "price_en": "Three-night quote required",
+      "conditions_en": "Conditional reserve: published winter reference €796 (19 900 Kč)/week. Short-stay terms and February 2027 total are unconfirmed; do not divide the weekly price into a bookable nightly rate."
+    }
+  ],
+  "additional_tariff_sources": {
+    "Happy Hill 32": "https://www.e-chalupy.cz/chata-32-happy-hill-pronajem-cista-v-krkonosich-o14103",
+    "MausHaus": "https://www.ceskehory.cz/ubytovani/cenik/chalupa-maushaus-rudnik.html"
+  }
+}
