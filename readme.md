@@ -7,7 +7,7 @@ Bilingual seasonal travel pages. English is the default. The EN / RU switch reme
 - `summer/`, `mid-season/`: future trips
 - `assets/`: shared styles and scripts
 
-All new names use lowercase and hyphens. Tentative dates: 30 January – 6 February 2027 (subject to change). Departure: Wrocław. Four travellers: two skiers, two non-skiers. Target accommodation: two bedrooms, a living room and kitchen. Nine property options are listed in the accommodation section. Published tariffs, source links, assumptions and unconfirmed availability are recorded in winter/solden/housing-research.json. The alpine SVG is an illustration, not a photograph of the resort. Piste map image: Sölden / Ötztal, sourced from https://skitrips24.co.uk/piste-map-solden/ ; edition unconfirmed, with links to the official live map and download portal. Resort information links to official sources.
+All new names use lowercase and hyphens. Sölden is postponed to a future winter. New dates are open. The research files preserve historical price references. Departure: Wrocław. Four travellers: two skiers, two non-skiers. Target accommodation: two bedrooms, a living room and kitchen. Nine property options are listed in the accommodation section. Published tariffs, source links, assumptions and unconfirmed availability are recorded in winter/solden/housing-research.json. The alpine SVG is an illustration, not a photograph of the resort. Piste map image: Sölden / Ötztal, sourced from https://skitrips24.co.uk/piste-map-solden/ ; edition unconfirmed, with links to the official live map and download portal. Resort information links to official sources.
 
 ## preview
 

@@ -16,3 +16,44 @@
 .cd-piste-frame{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#d9e5ec;margin:18px 0}.cd-piste-svg{width:100%;height:auto;max-height:900px;display:block}.piste-toggles{display:flex;gap:10px;flex-wrap:wrap}.piste-toggle{border:1px solid #bdcbd1;border-radius:22px;padding:8px 15px;background:white;color:var(--ink);font-size:12px}.piste-toggle.blue[aria-pressed=true]{background:#e4efff;border-color:#1474d4;color:#0754a2}.piste-toggle.red[aria-pressed=true]{background:#fce9e7;border-color:#d3463c;color:#a32f26}.piste-toggle.mixed[aria-pressed=true]{background:#eee9f7;border-color:#8766aa;color:#604287}.piste-toggle.learning[aria-pressed=true]{background:#e4f3e9;border-color:#3e9860;color:#247343}.piste-toggle[aria-pressed=false]{opacity:.65}#road .road-trip-map{margin-bottom:24px}
 
 .home-trip-section{margin:0 0 64px}.home-trip-section#archive{padding-top:36px;border-top:1px solid var(--line)}.home-section-title{font:700 55px/1.2 Manrope,Arial,sans-serif;letter-spacing:-1.5px;margin:0 0 25px}.home-season-title{font:700 28px Manrope,Arial,sans-serif;letter-spacing:-.8px;margin:8px 0 14px}@media(max-width:760px){.home-section-title{font-size:42px}.home-season-title{font-size:25px}}
+
+.housing-photo {
+  margin: 8px 0 0;
+}
+.housing-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 8 / 5;
+  object-fit: cover;
+  border-radius: 6px;
+  background: #edf4f1;
+  cursor: zoom-in;
+}
+.housing-photo figcaption {
+  margin-top: 4px;
+  font-size: 11px;
+  text-align: right;
+}
+
+#stay .housing-category-title {
+  margin: 32px 0 16px;
+  padding-top: 17px;
+  border-top: 2px solid var(--accent);
+  color: var(--ink);
+  font: 700 clamp(23px, 3vw, 30px)/1.2 Manrope, Arial, sans-serif;
+}
+
+.szczyrk-hero {
+  background: linear-gradient(90deg, rgba(12, 31, 47, .78), rgba(12, 31, 47, .42) 45%, rgba(12, 31, 47, .06) 78%),
+    #173747 url("../../winter/szczyrk/images/skrzyczne-winter.jpg") center 58% / cover no-repeat;
+}
+.szczyrk-photo-credit {
+  margin: 6px 0 0;
+  font-size: 11px;
+  text-align: right;
+  color: var(--muted);
+}
+.szczyrk-photo-credit a {
+  color: inherit;
+}

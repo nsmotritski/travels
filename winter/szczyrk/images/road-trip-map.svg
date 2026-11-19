@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" role="img" aria-labelledby="title description">
+  <title id="title">Route to Szczyrk via Katowice / Маршрут в Шчирк через Катовице</title>
+  <desc id="description">Two people drive from Wrocław and two take a train from Warsaw. All four meet at Katowice railway station and continue by car towards Szczyrk. The map shows intermediate towns, the Odra and Wisła rivers, and approximate travel distances and times.</desc>
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1">
+      <stop stop-color="#eef4f1"/>
+      <stop offset="1" stop-color="#dce9e5"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#b9ccc3" stroke-opacity=".26"/>
+    </pattern>
+    <path id="mountain" d="m0 23 20-23 20 23m-27-8 7-8 7 8" fill="none"/>
+  </defs>
+  <rect width="900" height="480" fill="url(#paper)"/>
+  <rect width="900" height="480" fill="url(#grid)"/>
+  <path d="M0 290 44 308 66 298 81 326 108 324 120 351 148 346 176 374 213 360 248 389 276 382 314 404 351 399 383 429 426 421 460 450 495 439 531 467 593 480" fill="none" stroke="#9bb1aa" stroke-width="2" stroke-dasharray="5 6"/>
+  <g stroke="#7e9d93" stroke-width="2" opacity=".55">
+    <use href="#mountain" x="211" y="414"/><use href="#mountain" x="253" y="434"/>
+    <use href="#mountain" x="337" y="435"/><use href="#mountain" x="540" y="420"/>
+    <use href="#mountain" x="570" y="401"/><use href="#mountain" x="604" y="432"/>
+    <use href="#mountain" x="641" y="410"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#54726b" font-size="17" letter-spacing="3">
+    <text x="372" y="77">POLSKA</text>
+    <text x="81" y="408">ČESKO</text>
+    <text x="816" y="68">N ↑</text>
+  </g>
+  <g fill="none" stroke="#73a7bb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 153 Q25 144 38 160 T75 164 Q105 167 124 190 T167 210 Q181 209 188 219 T215 227 Q233 228 253 246 Q278 252 278 273 T300 303 Q308 325 286 338 T306 359 Q308 371 291 383"/>
+    <path d="M590 0 Q600 20 631 39 T675 63 Q690 73 685 92 Q690 112 717 124 T751 154 Q774 161 781 184 T810 204 Q834 202 848 218 T900 223"/>
+    <path d="M397 452 Q388 439 395 420 T389 400 Q383 389 402 383 Q420 375 441 387 T473 382 Q504 362 532 379 T575 372 Q605 348 632 364 T683 348 Q721 351 748 320 T805 301 Q843 300 863 280 T900 269"/>
+  </g>
+  <g fill="#3e758b" font-family="Arial,sans-serif" font-size="15" font-style="italic">
+    <text x="76" y="153">Odra</text>
+    <text x="747" y="124">Wisła</text>
+    <text x="581" y="352">Wisła</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M167 210 Q194 223 210 242 T259 270 Q282 278 295 295 T337 313 Q369 315 401 333 M401 333 Q413 346 410 360 T418 401 Q422 412 417 425" stroke="#f9fcfb" stroke-width="10"/>
+    <path d="M167 210 Q194 223 210 242 T259 270 Q282 278 295 295 T337 313 Q369 315 401 333 M401 333 Q413 346 410 360 T418 401 Q422 412 417 425" stroke="#216954" stroke-width="5"/>
+    <path d="M685 92 Q645 106 620 111 T561 133 Q520 166 514 197 T469 248 Q447 268 451 284 T401 333" stroke="#f9fcfb" stroke-width="10"/>
+    <path d="M685 92 Q645 106 620 111 T561 133 Q520 166 514 197 T469 248 Q447 268 451 284 T401 333" stroke="#365c91" stroke-width="5" stroke-dasharray="9 8"/>
+  </g>
+  <g fill="none" stroke="#627f7b" stroke-width="1.25">
+    <path d="M259 270 253 246M366 318 357 305M560 134 568 148M454 277 466 282M409 350 391 353M418 401 428 405"/>
+  </g>
+  <g fill="#fff" stroke="#627f7b" stroke-width="1.5">
+    <circle cx="253" cy="246" r="4"/>
+    <circle cx="357" cy="305" r="4"/>
+    <circle cx="568" cy="148" r="4"/>
+    <circle cx="466" cy="282" r="4"/>
+    <circle cx="391" cy="353" r="4"/>
+    <circle cx="428" cy="405" r="4"/>
+  </g>
+  <g fill="#314f57" font-family="Arial,sans-serif" font-size="16" paint-order="stroke" stroke="#edf4f0" stroke-width="4" stroke-linejoin="round">
+    <text x="256" y="235">Opole</text>
+    <text x="366" y="299">Gliwice</text>
+    <text x="581" y="160">Opoczno</text>
+    <text x="480" y="288">Zawiercie</text>
+    <text x="380" y="357" text-anchor="end">Tychy</text>
+    <text x="440" y="422">Bielsko-Biała</text>
+  </g>
+  <g fill="#fff" stroke-width="4">
+    <circle cx="167" cy="210" r="7" stroke="#216954"/>
+    <circle cx="685" cy="92" r="7" stroke="#365c91"/>
+    <circle cx="401" cy="333" r="10" stroke="#234454"/>
+    <circle cx="417" cy="425" r="7" stroke="#216954"/>
+  </g>
+  <g fill="#203b45" font-family="Arial,sans-serif" font-weight="700" font-size="23">
+    <text x="83" y="187">Wrocław</text>
+    <text x="701" y="99">Warszawa</text>
+    <text x="428" y="337">Katowice</text>
+    <text x="319" y="438">Szczyrk</text>
+  </g>
+  <text x="428" y="359" fill="#426369" font-family="Arial,sans-serif" font-size="15">Dworzec PKP</text>
+  <g font-family="Arial,sans-serif" font-size="15" font-weight="700">
+    <g fill="#216954">
+      <rect x="58" y="281" width="230" height="32" rx="8" fill="#f8fcf9" stroke="#8db3a5"/>
+      <text x="173" y="302" text-anchor="middle">A4 · ≈ 195 km · 2:00–2:30 hrs</text>
+      <rect x="564" y="392" width="184" height="32" rx="8" fill="#f8fcf9" stroke="#8db3a5"/>
+      <text x="656" y="413" text-anchor="middle">≈ 75 km · 1:00–1:30 hrs</text>
+    </g>
+    <g fill="#365c91">
+      <rect x="550" y="205" width="235" height="32" rx="8" fill="#f5f9fe" stroke="#9bb1d0"/>
+      <text x="667" y="226" text-anchor="middle">CMK · ≈ 300 km · 2:30–3:15 hrs</text>
+    </g>
+  </g>
+</svg>
