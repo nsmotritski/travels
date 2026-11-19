@@ -71,7 +71,7 @@ Object.assign(translations, {
   "sz-off-title": {"en": "Off the slopes", "ru": "Чем заняться без лыж"},
   "sz-off-intro": {"en": "Options for 31 January–2 February. Check winter opening hours before heading out and agree who needs the car on ski days.", "ru": "Идеи на 31 января — 2 февраля. Перед поездкой проверьте зимний график работы и согласуйте, кому нужна машина в дни катания."},
   "sz-nav-off": {"en": "Off the slopes", "ru": "Без лыж"},
-  "sz-home-card": {"en": "Poland · 5 days / 4 nights · 30 Jan–3 Feb 2027 · 4 travellers", "ru": "Польша · 5 дней / 4 ночи · 30 января — 3 февраля 2027 · 4 участника"},
+  "sz-home-card": {"en": "Poland · 5 days / 4 nights · 30 Jan–3 Feb 2027 · 4 travellers", "ru": "Польша · 5 дней / 4 ночи · 30 янв. — 3 фев. 2027 · 4 участника"},
   "sz-piste-status": {"en": "Check open pistes and lifts ↗", "ru": "Проверить открытые трассы и подъёмники ↗"},
   "sz-piste-pdf": {"en": "Open PDF ↗", "ru": "Открыть PDF ↗"},
   "sz-piste-zoom": {"en": "Enlarge map ↗", "ru": "Увеличить карту ↗"},
