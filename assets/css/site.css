@@ -66,6 +66,6 @@
     padding-inline: 20px;
   }
   .home #upcoming .cards {
-    grid-template-columns: minmax(0, 1.46fr) repeat(2, minmax(0, 1fr));
+    grid-template-columns: minmax(max-content, 1fr) repeat(2, minmax(0, 1fr));
   }
 }
