@@ -1,0 +1,112 @@
+{
+  "checked": "2026-11-20",
+  "hero": {
+    "file": "images/cerny-dul-resort.webp",
+    "title": "Cerny Dul celkovy pohled.jpg",
+    "description": "Černý Důl viewed from the NNE, ski slope and chairlift in foreground, village and wooded mountain ridges.",
+    "author": "JiriMatejicek",
+    "author_url": "https://commons.wikimedia.org/wiki/User:JiriMatejicek",
+    "source": "https://commons.wikimedia.org/wiki/File:Cerny_Dul_celkovy_pohled.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cerny_Dul_celkovy_pohled.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution_required": true,
+    "delivery_source": "https://ceskehory.info/foto/cerny-dul-1.webp",
+    "delivery_source_page": "https://ceskehory.info/webkamery/cerny-dul/",
+    "changes": "1600px WebP copy supplied by České hory; displayed crop through CSS. Attribution and license linked below hero. Image remains under CC BY-SA 3.0.",
+    "verified_metadata": {
+      "DateTime": {
+        "value": "2019-01-04 09:16:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Cerny Dul celkovy pohled",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Ski resort Černá Hora - Pec|Uploaded with VicuñaUploader|Files with coordinates missing SDC location of creation|Mediagrant 2018|Chairlift Family Express (Černý Důl)|Mediagrant:Fotíme Česko|Views of Černý Důl|Winter in Černý Důl",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "50.638684",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "15.705986",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Černý Důl - celkový pohled od SSV, v popředí sjezdovka s lanovkou, uprostřed kostel sv. Michaela",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-03-25",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:JiriMatejicek\" title=\"User:JiriMatejicek\">JiriMatejicek</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "road_map": {
+    "file": "images/road-trip-map.svg",
+    "label": "≈140–150 km · 2½–3 h",
+    "layout": "Horizontal annotation next to the route; previous curved text removed.",
+    "basis": "Existing trip planning estimates; each way in winter, stops extra."
+  }
+}

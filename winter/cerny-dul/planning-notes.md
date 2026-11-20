@@ -13,10 +13,10 @@
 | Страна | **Česko / Czechia / Чехия** |
 | Название курорта | **Skiareál Černý Důl / Černý Důl Ski Resort** |
 | Общая система курортов | **SkiResort ČERNÁ HORA – PEC** |
-| Период | **Февраль 2027 года**, предварительно |
-| Формат дат | Выходные плюс четверг–пятница **или** понедельник–вторник: **четверг–воскресенье либо суббота–вторник** |
+| Период | **13–16 февраля 2027 года**, предварительно |
+| Формат дат | **Суббота 13 февраля — вторник 16 февраля 2027 года** |
 | Календарные дни | **4 дня**, согласно последнему уточнению |
-| Ночи | **3 ночи — рабочее допущение ассистента**, отдельно пользователем не подтверждено |
+| Ночи | **3 ночи: 13, 14 и 15 февраля**, в рамках предварительных дат пользователя |
 | Дни катания | Не определены. Ранние сметы считались на **3 дня**, позднее предлагалось катание и в дни приезда/отъезда |
 | Компания | **5 человек** |
 | Катающиеся | **Скорее всего, 4 человека** |
@@ -28,7 +28,7 @@
 
 **Что определено пользователем:** февраль 2027; четыре дня с выходными; пятеро; предположительно четверо катаются; одна машина; подробное рассмотрение Černý Důl; жильё с двумя-тремя спальнями, **предпочтительно тремя**, и общей гостиной; дешёвые и средние варианты.
 
-**Что открыто:** конкретные даты, число ночей и дней катания, жильё, бюджетный предел, инструктор, прокат, программа для некатающегося участника. Совмещение с Зеленцем обсуждалось, но окончательного решения нет.
+**Что открыто:** окончательное подтверждение дат, число дней катания, жильё, бюджетный предел, инструктор, прокат, программа для некатающегося участника. Совмещение с Зеленцем обсуждалось, но окончательного решения нет.
 
 ## 2. Дорога
 
@@ -321,3 +321,23 @@ RU: **Зима в Černý Důl**
 3. **Каков максимальный бюджет за всё жильё и обязательны ли три спальни?** Допустим ли ежедневный подъезд около 3 км?
 4. **Каков возраст четырёх катающихся, уровень остальных и у кого есть своё снаряжение?**
 5. **Сколько дней хотите кататься, сколько занятий нужно племянницам и на каком языке?**
+
+## Housing recheck — 20 November 2026
+
+Dates: 13–16 February 2027, three nights. Agoda searches used five adults provisionally. White - Hill No. 9 was shown at 797 PLN/night, non-refundable; separate living room unconfirmed. Angel premium apartment was shown at 1,499 PLN/night with free cancellation before 6 February, payment not before 4 February; the third bedroom is an open gallery. Aurum Deluxe Suite was shown at 2,068 PLN/night with breakfast and free cancellation before 30 January, payment not before 28 January; exact suite kitchen is unconfirmed. Three-night totals on the page are calculated from rounded nightly prices, not checkout quotes. EUR uses a stated planning rate of 4.30 PLN/EUR.
+
+Vila v Krkonoších has a calendar gap from the departure on 13 February, but a three-night winter stay requires agreement. Its cancellation fee schedule is not fully published; do not present it as confirmed or freely cancellable.
+
+U Mariky calendar is occupied from 15 February. Happy Hill 32 Interhome dates are unavailable and minimum seven nights. AVIATIK is unavailable on Agoda; direct inventory remains unknown. Other previous candidates were moved to a clearly labelled research archive, with cancellation unknowns retained. No reservations or owner messages were made. Source URLs, photo credits, limitations and previous research are in housing-sources.json. Photo licenses have not been verified.
+
+
+## Ten-property expansion — 20 November 2026
+
+Five lower-cost and five mid-range comparison cards now show exact-date Agoda offers for 13–16 February 2027, five adults, three nights. Added Pension Dvořáček, Albipolis, Rubinovi, Vakantiehuis Reuzengebergte, Resort Vrchlabí, Galleria Central and Endemit. White - Hill, Angel and Aurum remain. Vila moved to archive as enquiry-only. Nine selected offers are freely cancellable before their individual deadlines; White - Hill is non-refundable. The UI uses a green check, cross or question mark, with the deadline retained. Source records include original PLN nightly rates, calculated three-night totals, unit types and gallery image credits.
+
+The group split is relative by selected price, not a new user budget. Endemit and Aurum are costly upgrades. Nearby towns require a drive; time ranges are rough planning estimates and each property has a Google Maps route link. Separate living rooms are unconfirmed for some cheaper options. No booking or owner communication was made.
+
+
+## Mid range ceiling — 20 November 2026
+
+User set a maximum of €1,000 for three nights. Removed Angel, Endemit and Aurum from the active shortlist; retain this exclusion in future updates. Five Lower cost cards unchanged. Five Mid range alternatives now stay below the ceiling at the stated planning rate of 4.30 PLN/EUR, with some new cheaper options overlapping Lower cost. Three replacement cards include dated availability for five adults, gallery photos, selected unit layout, prices, cancellation deadline, fees and a route link. Nothing booked.

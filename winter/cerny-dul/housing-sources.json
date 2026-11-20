@@ -1,72 +1,883 @@
 {
-  "checked": "2026-11-01",
-  "dates": "2027-02-11/2027-02-14",
-  "availability_confirmed": false,
-  "eur_czk_planning_rate": 25,
+  "checked": "2026-11-20",
+  "dates": {
+    "check_in": "2027-02-13",
+    "check_out": "2027-02-16",
+    "nights": 3
+  },
+  "guests": 5,
+  "search_occupancy": "5 adults, provisional until ages are known",
+  "availability_confirmed": true,
+  "status_definition": "Availability snapshots for exact dates and occupancy; no booking guarantee.",
+  "price_method": "3 x rounded displayed PLN/night, not final checkout quote. EUR planning conversion: 4.30 PLN/EUR.",
   "properties": [
     {
-      "name": "Pod Černou 5",
-      "source": "https://www.e-chalupy.cz/rudnik-ubytovani-bolkov-chalupa-pod-cernou-5-o23653",
-      "price_en": "€100 (2 500 Kč) / night",
-      "conditions_en": "Two-night minimum; weekend €240 (6 000 Kč). A three-night total needs a quote. Electricity and local tax extra; linen included."
+      "id": "dvoracek",
+      "name": "Pension Dvořáček",
+      "loc": "Svoboda nad Úpou · Sluneční Stráň 307",
+      "unit": "Two-Bedroom Apartment",
+      "area_m2": 50,
+      "nightly_pln": 517,
+      "calculated_3_nights_pln": 1551,
+      "cancel_before": "2027-01-30",
+      "free_cancellation": true,
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "layout": [
+        "2 bedrooms · 5 single beds · full kitchen and seating area. A separate living room is not confirmed.",
+        "2 спальни · 5 односпальных кроватей · кухня и зона отдыха. Отдельная гостиная не подтверждена."
+      ],
+      "detail": [
+        "Parking, Wi-Fi and displayed taxes/fees included. No credit card needed for this offer.",
+        "Парковка, Wi-Fi и показанные налоги/сборы включены. Для этого тарифа карта не требуется."
+      ],
+      "url": "https://www.agoda.com/pension-dvoracek/hotel/svoboda-nad-upou-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "dvoracek",
+      "drive": [
+        "≈15–25 min by car",
+        "≈15–25 мин на машине"
+      ],
+      "origin": "Sluneční Stráň 307, Svoboda nad Úpou, Czechia",
+      "checked": "2026-11-20",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "group": 0,
+      "free": true,
+      "price": [
+        "≈€361 / 3 nights",
+        "≈€361 / 3 ночи"
+      ],
+      "photo": {
+        "property": "dvoracek",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/20974572.jpg?k=28da7927deef4285814d7490e8145a81d2138a66a36eb98c12434c1d8fefb5a0&o=",
+        "local": "images/housing/dvoracek.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
     },
     {
-      "name": "Apartmán AVIATIK",
-      "source": "https://www.apartmanyaviatik-cernydul.cz/ubytovani/cenik/",
-      "price_en": "≈€420 (10 500 Kč) / 3 nights",
-      "conditions_en": "Five-person calculation: €140 (3 500 Kč)/night. Two-night minimum, local tax included. Published tariff effective from 2023; confirm 2027 rate and extras."
+      "id": "whitehill",
+      "name": "Apartments White - Hill · No. 9",
+      "loc": "Čistá v Krkonoších 25",
+      "image": "apartments-white-hill",
+      "slug": "apartments-white-hill",
+      "price": [
+        "≈€556 / 3 nights",
+        "≈€556 / 3 ночи"
+      ],
+      "layout": [
+        "45 m² · 2 bedrooms · queen bed + 3 single beds · full kitchen and dining area. A separate living room is not confirmed. Free parking.",
+        "45 м² · 2 спальни · двуспальная + 3 односпальные кровати · кухня и обеденная зона. Отдельная гостиная не подтверждена. Бесплатная парковка."
+      ],
+      "status": [
+        "Shown available · 5 adults · 13–16 Feb",
+        "Показан доступным · 5 взрослых · 13–16 февраля"
+      ],
+      "detail": [
+        "797 PLN/night; calculated 2,391 PLN/3 nights for the apartment. Displayed as including taxes and fees. The gallery photo shows the property, not a guaranteed view of unit No. 9.",
+        "797 PLN/ночь; расчёт 2 391 PLN/3 ночи за апартаменты. В тарифе указано включение налогов и сборов. На фото — объект размещения, не гарантированно интерьер квартиры №9."
+      ],
+      "cancel": [
+        "Non-refundable. No free-cancellation offer was shown for No. 9. Unsuitable if flexibility is essential.",
+        "Невозвратный тариф. Для №9 тариф с бесплатной отменой не показан. Не подходит, если возможность переноса принципиальна."
+      ],
+      "free": false,
+      "group": 0,
+      "url": "https://www.agoda.com/apartments-white-hill/hotel/cerny-dul-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "availability": "shown_available",
+      "nightly_pln": 797,
+      "calculated_3_nights_pln": 2391,
+      "free_cancellation": false,
+      "unit": "Two-Bedroom Apartment No. 9",
+      "area_m2": 45,
+      "drive": [
+        "≈5–10 min by car",
+        "≈5–10 мин на машине"
+      ],
+      "origin": "Čistá v Krkonoších 25, Černý Důl, Czechia",
+      "checked": "2026-11-20",
+      "photo": {
+        "property": "apartments-white-hill",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/152843766.jpg?k=653a69dafa270abbba5866f9cdab642e2f5ddb8aac3e3e89e6948bcdb50fd6aa&o=",
+        "local": "images/housing/apartments-white-hill.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    },
+    {
+      "id": "albipolis",
+      "name": "Apartmány Albipolis – Hořec a Modřín",
+      "loc": "Vrchlabí · J. K. Tyla 1742",
+      "unit": "Two-Bedroom Apartment",
+      "area_m2": 70,
+      "nightly_pln": 815,
+      "calculated_3_nights_pln": 2445,
+      "cancel_before": "2027-02-12",
+      "free_cancellation": true,
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "layout": [
+        "2 bedrooms + common sofa bed · 2 bathrooms · full kitchen. Five proper beds in the bedrooms.",
+        "2 спальни и диван в общей зоне · 2 санузла · кухня. Пять обычных спальных мест в спальнях."
+      ],
+      "detail": [
+        "Parking, Wi-Fi and displayed taxes included. No payment until 10 February. Confirm any separate local fees.",
+        "Парковка, Wi-Fi и показанные налоги включены. Оплата не ранее 10 февраля. Отдельные местные сборы нужно уточнить."
+      ],
+      "url": "https://www.agoda.com/apartmany-albipolis-horec-a-modrin/hotel/all/vrchlabi-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "albipolis",
+      "drive": [
+        "≈20–30 min by car",
+        "≈20–30 мин на машине"
+      ],
+      "origin": "J. K. Tyla 1742, Vrchlabí, Czechia",
+      "checked": "2026-11-20",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "group": 0,
+      "free": true,
+      "price": [
+        "≈€569 / 3 nights",
+        "≈€569 / 3 ночи"
+      ],
+      "photo": {
+        "property": "albipolis",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/789552637.jpg?k=023672d1b9d4a41503bcfd20284ed2c0a94dd93b42673ceff4b39139852ed458&o=",
+        "local": "images/housing/albipolis.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    },
+    {
+      "id": "rubinovi",
+      "name": "Apartmány Rubinovi",
+      "loc": "Vrchlabí · Pod Žalým 79",
+      "unit": "Two-Bedroom Apartment",
+      "area_m2": 50,
+      "nightly_pln": 886,
+      "calculated_3_nights_pln": 2658,
+      "cancel_before": "2027-01-14",
+      "free_cancellation": true,
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "layout": [
+        "2 bedrooms · 4 single beds + queen bed · full kitchen and seating area. A separate living room is not confirmed.",
+        "2 спальни · 4 односпальные и двуспальная кровать · кухня и зона отдыха. Отдельная гостиная не подтверждена."
+      ],
+      "detail": [
+        "Parking, Wi-Fi and displayed taxes included. No payment until 12 January. Property announcements also mention bank-transfer prepayment; reconcile this before booking.",
+        "Парковка, Wi-Fi и показанные налоги включены. Оплата не ранее 12 января. В общих правилах также указана предоплата переводом — уточнить до бронирования."
+      ],
+      "url": "https://www.agoda.com/apartmany-rubinovi/hotel/vrchlabi-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "rubinovi",
+      "drive": [
+        "≈25–35 min by car",
+        "≈25–35 мин на машине"
+      ],
+      "origin": "Pod Žalým 79, Vrchlabí, Czechia",
+      "checked": "2026-11-20",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "group": 0,
+      "free": true,
+      "price": [
+        "≈€618 / 3 nights",
+        "≈€618 / 3 ночи"
+      ],
+      "photo": {
+        "property": "rubinovi",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/936807351.jpg?k=dd20b6767b4db12925cb46d51b99b3c88851a736f3dc972c6fade23580f715ad&o=",
+        "local": "images/housing/rubinovi.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    },
+    {
+      "id": "reuzen",
+      "name": "Vakantiehuis Reuzengebergte",
+      "loc": "Horní Lánov 168",
+      "unit": "Holiday Home – First Floor",
+      "area_m2": 90,
+      "nightly_pln": 949,
+      "calculated_3_nights_pln": 2847,
+      "cancel_before": "2027-01-14",
+      "free_cancellation": true,
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "layout": [
+        "2 bedrooms · full kitchen + dining area · first-floor unit, not the whole building. A separate living room is not confirmed.",
+        "2 спальни · кухня и обеденная зона · квартира на верхнем этаже, не весь дом. Отдельная гостиная не подтверждена."
+      ],
+      "detail": [
+        "Parking, Wi-Fi and displayed taxes/fees included. No credit card needed; property requests bank-transfer prepayment. Ask for the payment schedule.",
+        "Парковка, Wi-Fi и показанные налоги/сборы включены. Карта не нужна; объект запрашивает предоплату переводом. График оплаты нужно уточнить."
+      ],
+      "url": "https://www.agoda.com/vakantiehuis-reuzengebergte/hotel/vrchlabi-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "reuzen",
+      "drive": [
+        "≈10–20 min by car",
+        "≈10–20 мин на машине"
+      ],
+      "origin": "Horní Lánov 168, Lánov, Czechia",
+      "checked": "2026-11-20",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "group": 0,
+      "free": true,
+      "price": [
+        "≈€662 / 3 nights",
+        "≈€662 / 3 ночи"
+      ],
+      "photo": {
+        "property": "reuzen",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/84243777.jpg?k=7c24c62460e29691a14750063647d49915695c5b6fa53b00e98c8d1ce60d7aae&o=",
+        "local": "images/housing/reuzen.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    },
+    {
+      "id": "hertvinka",
+      "name": "Apartmány Hertvinka",
+      "loc": "Hertvíkovice 82 · Mladé Buky",
+      "unit": "Two-Bedroom Apartment",
+      "area_m2": 80,
+      "nightly_pln": 780,
+      "cancel_before": "2027-02-10",
+      "free_cancellation": true,
+      "layout": [
+        "2 bedrooms upstairs · living room with kitchen · 2 queen beds + single bed: all five guests can sleep in the bedrooms.",
+        "2 спальни наверху · гостиная с кухней · 2 двуспальные кровати и односпальная: все пятеро могут спать в спальнях."
+      ],
+      "detail": [
+        "Offer 1: pay at the property. Parking, Wi-Fi and displayed taxes/fees included. Offer 2 was shown at the same price with payment not before 8 February. Cleaning, any separate local tax and deposit still need confirmation. Owner listing confirms the living room and two upstairs bedrooms.",
+        "Тариф Offer 1: оплата в объекте. Парковка, Wi-Fi и показанные налоги/сборы включены. Offer 2 показан по той же цене с оплатой не ранее 8 февраля. Уборку, отдельный турсбор и залог нужно уточнить. Объявление владельца подтверждает гостиную и две спальни наверху."
+      ],
+      "url": "https://www.agoda.com/apartmany-hertvinka/hotel/mlade-buky-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "hertvinka",
+      "drive": [
+        "≈15–25 min by car",
+        "≈15–25 мин на машине"
+      ],
+      "origin": "Apartmány Hertvinka, Hertvíkovice 82, Mladé Buky, Czechia",
+      "offer": 1,
+      "layout_source": "https://www.e-chalupy.cz/ubytovani-hertvikovice-apartmany-hertvinka-o18977",
+      "group": 1,
+      "checked": "2026-11-20",
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "calculated_3_nights_pln": 2340,
+      "free": true,
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "price": [
+        "≈€544 / 3 nights",
+        "≈€544 / 3 ночи"
+      ],
+      "photo": {
+        "property": "hertvinka",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/651478801.jpg?k=797883bdb7ad3158b579885741675fa18a11f174a49aafe7b74d5bbe2a569a4d&o=",
+        "local": "images/housing/hertvinka.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    },
+    {
+      "id": "zizkova",
+      "name": "Apartmán Trutnov – Žižkova",
+      "loc": "Trutnov · Žižkova 457",
+      "unit": "Two-Bedroom Apartment",
+      "area_m2": 60,
+      "nightly_pln": 795,
+      "cancel_before": "2027-02-06",
+      "free_cancellation": true,
+      "layout": [
+        "2 bedrooms + common sofa bed for the fifth guest · full kitchen and dining area · fourth floor, lift listed.",
+        "2 спальни и диван в общей зоне для пятого гостя · кухня и обеденная зона · четвёртый этаж, указан лифт."
+      ],
+      "detail": [
+        "Offer 1: parking, Wi-Fi and displayed taxes/fees included. No payment until 4 February. Confirm any separate cleaning fee, local tax and refundable deposit. Longer daily drive than the options in Černý Důl and Lánov.",
+        "Тариф Offer 1: парковка, Wi-Fi и показанные налоги/сборы включены. Оплата не ранее 4 февраля. Отдельную плату за уборку, турсбор и возвратный залог нужно уточнить. Ежедневная дорога длиннее, чем из Černý Důl и Lánov."
+      ],
+      "url": "https://www.agoda.com/apartman-trutnov-zizkova/hotel/trutnov-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "zizkova",
+      "drive": [
+        "≈25–40 min by car · longer drive",
+        "≈25–40 мин на машине · дальше от склона"
+      ],
+      "origin": "Žižkova 457, Trutnov, Czechia",
+      "offer": 1,
+      "group": 1,
+      "checked": "2026-11-20",
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "calculated_3_nights_pln": 2385,
+      "free": true,
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "price": [
+        "≈€555 / 3 nights",
+        "≈€555 / 3 ночи"
+      ],
+      "photo": {
+        "property": "zizkova",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/648592772.jpg?k=b87da2ffdf683794018b239a0d65c8109ed55f0ad11e636eef890e733b5d8762&o=",
+        "local": "images/housing/zizkova.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    },
+    {
+      "id": "vrchlabi-resort",
+      "name": "Apartmány Resort Vrchlabí",
+      "loc": "Vrchlabí · Horská 179",
+      "unit": "Two-Bedroom Apartment with Balcony",
+      "area_m2": 73,
+      "nightly_pln": 966,
+      "calculated_3_nights_pln": 2898,
+      "cancel_before": "2027-01-30",
+      "free_cancellation": true,
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "layout": [
+        "2 bedrooms + living area · double bed, bunk beds and sofa bed · full kitchen · balcony.",
+        "2 спальни и гостиная зона · двуспальная кровать, двухъярусные кровати и диван · кухня · балкон."
+      ],
+      "detail": [
+        "Parking, Wi-Fi and displayed taxes included. No payment until 28 January; property announcements also mention bank-transfer prepayment. Confirm separate charges and payment schedule.",
+        "Парковка, Wi-Fi и показанные налоги включены. Оплата не ранее 28 января; в общих правилах также указана предоплата переводом. Уточнить отдельные доплаты и график оплаты."
+      ],
+      "url": "https://www.agoda.com/resort-vrchlabi/hotel/harrachov-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "vrchlabi-resort",
+      "drive": [
+        "≈20–30 min by car",
+        "≈20–30 мин на машине"
+      ],
+      "origin": "Horská 179, Vrchlabí, Czechia",
+      "checked": "2026-11-20",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "group": 1,
+      "free": true,
+      "price": [
+        "≈€674 / 3 nights",
+        "≈€674 / 3 ночи"
+      ],
+      "photo": {
+        "property": "vrchlabi-resort",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/415869649.jpg?k=889d73c4b965582257f0378c42a47b1c361b5b8f1e6c74e0fa292d3ebb22e988&o=",
+        "local": "images/housing/vrchlabi-resort.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    },
+    {
+      "id": "galleria",
+      "name": "Galleria Central Apartments & Wellness",
+      "loc": "Vrchlabí · Krkonošská 188",
+      "unit": "Standard Apartment",
+      "area_m2": 45,
+      "nightly_pln": 1100,
+      "calculated_3_nights_pln": 3300,
+      "cancel_before": "2027-01-30",
+      "free_cancellation": true,
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "layout": [
+        "2 bedrooms + seating area · 2 queen beds + sofa bed for the fifth guest · full kitchen.",
+        "2 спальни и зона отдыха · 2 двуспальные кровати и диван для пятого гостя · кухня."
+      ],
+      "detail": [
+        "Wi-Fi and displayed taxes included. No payment until 28 January. Parking and wellness are not listed as included in this offer; availability and charges need checking.",
+        "Wi-Fi и показанные налоги включены. Оплата не ранее 28 января. Парковка и wellness не указаны как включённые в этот тариф; наличие и стоимость нужно уточнить."
+      ],
+      "url": "https://www.agoda.com/galleria-central-apartments-wellness/hotel/vrchlabi-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "galleria",
+      "drive": [
+        "≈20–30 min by car",
+        "≈20–30 мин на машине"
+      ],
+      "origin": "Krkonošská 188, Vrchlabí, Czechia",
+      "checked": "2026-11-20",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "group": 1,
+      "free": true,
+      "price": [
+        "≈€767 / 3 nights",
+        "≈€767 / 3 ночи"
+      ],
+      "photo": {
+        "property": "galleria",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/785154519.jpg?k=8692adc1747697d244d064be51aff96041c03e0830b6e8fab1c903fbff76825f&o=",
+        "local": "images/housing/galleria.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    },
+    {
+      "id": "sarm",
+      "name": "Krkonošský šarm",
+      "loc": "Vrchlabí · Horská 179",
+      "unit": "Two-Bedroom Apartment with Balcony",
+      "area_m2": 83,
+      "nightly_pln": 1179,
+      "cancel_before": "2027-02-08",
+      "free_cancellation": true,
+      "layout": [
+        "2 bedrooms + living/seating area · 2 queen beds + sofa bed for the fifth guest · full kitchen · balcony.",
+        "2 спальни и гостиная зона · 2 двуспальные кровати и диван для пятого гостя · кухня · балкон."
+      ],
+      "detail": [
+        "Offer 1: parking, Wi-Fi and displayed taxes/fees included. No payment until 6 February. Confirm any separately payable local charges, cleaning and refundable deposit before booking.",
+        "Тариф Offer 1: парковка, Wi-Fi и показанные налоги/сборы включены. Оплата не ранее 6 февраля. Отдельный турсбор, уборку и возвратный залог нужно уточнить до брони."
+      ],
+      "url": "https://www.agoda.com/krkonossky-sarm/hotel/vrchlabi-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "sarm",
+      "drive": [
+        "≈20–30 min by car",
+        "≈20–30 мин на машине"
+      ],
+      "origin": "Horská 179, Vrchlabí, Czechia",
+      "offer": 1,
+      "group": 1,
+      "checked": "2026-11-20",
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "calculated_3_nights_pln": 3537,
+      "free": true,
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "price": [
+        "≈€823 / 3 nights",
+        "≈€823 / 3 ночи"
+      ],
+      "photo": {
+        "property": "sarm",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/773203592.jpg?k=7dc934c972ad598b3fefee0fa5cb34dba964a77d1252223d9b67aaf52ab29645&o=",
+        "local": "images/housing/sarm.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      }
+    }
+  ],
+  "photographs": [
+    {
+      "property": "angel-apartment-cerny-dul",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/323014930.jpg?k=7b8a40f2eaac465d100c383714eee37056c0403015c3178abde3b7aa06122b56&o=",
+      "local": "images/housing/angel-apartment-cerny-dul.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "apartments-white-hill",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/152843766.jpg?k=653a69dafa270abbba5866f9cdab642e2f5ddb8aac3e3e89e6948bcdb50fd6aa&o=",
+      "local": "images/housing/apartments-white-hill.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "Vila v Krkonoších",
+      "url": "https://vilakrkonose.cz/images/vila1.jpg",
+      "local": "images/housing/vila-v-krkonosich.jpg",
+      "source": "https://vilakrkonose.cz/galerie",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "resort-aurum-residence-b",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/940451488.jpg?k=7d8990418065588fefac79e9f81285458c88f23c4b331d800f3fe3596c77e8f6&o=",
+      "local": "images/housing/resort-aurum-residence-b.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "dvoracek",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/20974572.jpg?k=28da7927deef4285814d7490e8145a81d2138a66a36eb98c12434c1d8fefb5a0&o=",
+      "local": "images/housing/dvoracek.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "albipolis",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/789552637.jpg?k=023672d1b9d4a41503bcfd20284ed2c0a94dd93b42673ceff4b39139852ed458&o=",
+      "local": "images/housing/albipolis.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "rubinovi",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/936807351.jpg?k=dd20b6767b4db12925cb46d51b99b3c88851a736f3dc972c6fade23580f715ad&o=",
+      "local": "images/housing/rubinovi.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "reuzen",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/84243777.jpg?k=7c24c62460e29691a14750063647d49915695c5b6fa53b00e98c8d1ce60d7aae&o=",
+      "local": "images/housing/reuzen.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "vrchlabi-resort",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/415869649.jpg?k=889d73c4b965582257f0378c42a47b1c361b5b8f1e6c74e0fa292d3ebb22e988&o=",
+      "local": "images/housing/vrchlabi-resort.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "galleria",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/785154519.jpg?k=8692adc1747697d244d064be51aff96041c03e0830b6e8fab1c903fbff76825f&o=",
+      "local": "images/housing/galleria.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "endemit",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/646569785.jpg?k=3fab6ce792de4a547aa0ce0fa561976953319e9be48891d960d0576998b7020c&o=",
+      "local": "images/housing/endemit.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "sarm",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/773203592.jpg?k=7dc934c972ad598b3fefee0fa5cb34dba964a77d1252223d9b67aaf52ab29645&o=",
+      "local": "images/housing/sarm.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "hertvinka",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/651478801.jpg?k=797883bdb7ad3158b579885741675fa18a11f174a49aafe7b74d5bbe2a569a4d&o=",
+      "local": "images/housing/hertvinka.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    },
+    {
+      "property": "zizkova",
+      "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/648592772.jpg?k=b87da2ffdf683794018b239a0d65c8109ed55f0ad11e636eef890e733b5d8762&o=",
+      "local": "images/housing/zizkova.jpg",
+      "source": "Agoda / Booking.com property gallery",
+      "license": "Not verified; no free-use claim"
+    }
+  ],
+  "retired_candidates": [
+    {
+      "name": "AVIATIK",
+      "reason_en": "Not available on Agoda for these dates; direct inventory is unknown. Direct terms mention free cancellation at least 14 days before arrival; this does not override another provider’s rate.",
+      "reason_ru": "На Agoda на эти даты недоступен; прямое наличие неизвестно. При прямом бронировании опубликована бесплатная отмена минимум за 14 дней, но она не заменяет условия другого продавца."
     },
     {
       "name": "Chalupa U Mariky",
-      "source": "https://www.e-chalupy.cz/chalupa-u-mariky-cista-v-krkonosich-pronajem-o16860",
-      "price_en": "≈€344 (8 591 Kč) / weekend",
-      "conditions_en": "2027 winter tariff; minimum two nights. Three-night price needs a quote: the earlier weekly-rate calculation was not a short-stay offer. Energy and local tax extra; refundable deposit €200 (5 000 Kč)."
-    },
-    {
-      "name": "Vila v Krkonoších",
-      "source": "https://www.pronajmy.cz/objekt/8mhgfuwmx4-vila-v-krkonosich",
-      "price_en": "€240 (6 000 Kč) / weekend",
-      "conditions_en": "Two-night minimum. Ask for Thursday–Sunday and the exact villa/address. Energy, linen and cleaning included in the published tariff; local tax extra. February 2027 price unconfirmed."
-    },
-    {
-      "name": "Bonites · chata Krkonoše",
-      "source": "https://www.e-chalupy.cz/bonites-chata-krkonose-o4400",
-      "price_en": "€112 (2 800 Kč) / night",
-      "conditions_en": "Conditional reserve: published 2026 winter rules require five nights, so it does not fit our three-night draft unless the host makes an exception. Energy and cleaning included; confirm 2027 terms."
-    },
-    {
-      "name": "Chata Aperolka",
-      "source": "https://www.e-chalupy.cz/chata-aperolka-cista-v-krkonosich-pronajem-o16356",
-      "price_en": "≈€480–540 (12 000–13 500 Kč) / 3 nights",
-      "conditions_en": "Two-night minimum. Weekdays €140 (3 500 Kč), weekend nights €200 (5 000 Kč); confirm how Thursday–Sunday is charged. Energy, linen and cleaning included; local tax extra. Deposit €160 (4 000 Kč)."
-    },
-    {
-      "name": "Apartmán Alfa 11",
-      "source": "https://www.blackmine.cz/cenik/",
-      "price_en": "€640 (16 000 Kč) / 3 nights",
-      "conditions_en": "Historical 2025/26 winter package, not a confirmed 2027 price. The working link now opens the owner’s tariff. That tariff includes energy and local fees; ask for 11–14 February and cancellation terms."
-    },
-    {
-      "name": "Apartmány Pampeliška · 3+kk",
-      "source": "https://e-penziony.cz/apartmany-pampeliska",
-      "price_en": "€160 (4 000 Kč) / night",
-      "conditions_en": "Conditional reserve: the price table allows three winter nights, but the description says seven. February has its own holiday season. Confirm minimum stay, five-person rate and cleaning before considering it suitable."
+      "reason_en": "Calendar occupied from 15 February; our three-night stay does not fit. Free cancellation not established.",
+      "reason_ru": "Календарь занят с 15 февраля; наши три ночи не помещаются. Бесплатная отмена не установлена."
     },
     {
       "name": "Happy Hill 32",
-      "source": "https://happyhill32.cz/cs/",
-      "price_en": "Three-night quote required",
-      "conditions_en": "Conditional reserve: published winter reference €960 (24 000 Kč) per week. This is not a three-night price. Confirm the exact dates, minimum stay, full fees and parking with the booking provider."
+      "reason_en": "Interhome calendar: unavailable 13–16 February, minimum stay seven nights. Cancellation terms for a suitable offer were not established.",
+      "reason_ru": "Календарь Interhome: 13–16 февраля недоступны, минимум семь ночей. Условия отмены подходящего тарифа не установлены."
+    },
+    {
+      "name": "Bonites · chata Krkonoše",
+      "reason_en": "Published winter reference requires five nights; no suitable three-night offer or cancellation policy verified.",
+      "reason_ru": "В опубликованном зимнем ориентире минимум пять ночей; подходящий тариф на три ночи и условия отмены не подтверждены."
+    },
+    {
+      "name": "Apartmány Pampeliška",
+      "reason_en": "Winter weekly minimum in one source; conflicting short-stay information. No exact-date offer or cancellation policy verified.",
+      "reason_ru": "Один источник требует зимой недельный заезд; сведения о коротких заездах противоречат друг другу. Наличие и отмена на наши даты не подтверждены."
+    },
+    {
+      "name": "Pod Černou 5",
+      "reason_en": "Exact-date availability and free cancellation remain unverified.",
+      "reason_ru": "Наличие на точные даты и бесплатная отмена не подтверждены."
+    },
+    {
+      "name": "Chata Aperolka",
+      "reason_en": "Exact-date availability remains unverified. Published terms allow free cancellation at least 14 days before arrival; the 14-day boundary needs clarification.",
+      "reason_ru": "Наличие на точные даты не подтверждено. Опубликована бесплатная отмена минимум за 14 дней; граничный срок 14 дней нужно уточнить."
+    },
+    {
+      "name": "Apartmán Alfa 11",
+      "reason_en": "Exact-date availability is unverified. Published terms retain the 10% deposit for cancellation within 14 days; a full refund before that is not established.",
+      "reason_ru": "Наличие на точные даты не подтверждено. При отмене менее чем за 14 дней опубликовано удержание предоплаты 10%; полный возврат ранее этого срока не установлен."
     },
     {
       "name": "Chalupa MausHaus",
-      "source": "https://www.ceskehory.cz/ubytovani/chalupa-maushaus-rudnik.html",
-      "price_en": "Three-night quote required",
-      "conditions_en": "Conditional reserve: published winter reference €796 (19 900 Kč)/week. Short-stay terms and February 2027 total are unconfirmed; do not divide the weekly price into a bookable nightly rate."
+      "reason_en": "No verified three-night offer, exact-date availability or cancellation policy.",
+      "reason_ru": "Нет проверенного предложения на три ночи, подтверждения наличия или условий отмены."
+    },
+    {
+      "name": "Vila v Krkonoších",
+      "reason_en": "Enquiry-only; replaced in main shortlist by dated available offers. Cancellation unknown."
     }
   ],
-  "additional_tariff_sources": {
-    "Happy Hill 32": "https://www.e-chalupy.cz/chata-32-happy-hill-pronajem-cista-v-krkonosich-o14103",
-    "MausHaus": "https://www.ceskehory.cz/ubytovani/cenik/chalupa-maushaus-rudnik.html"
-  }
+  "previous_research": {
+    "checked": "2026-11-01",
+    "dates": "2027-02-13/2027-02-16",
+    "availability_confirmed": false,
+    "eur_czk_planning_rate": 25,
+    "properties": [
+      {
+        "name": "Pod Černou 5",
+        "source": "https://www.e-chalupy.cz/rudnik-ubytovani-bolkov-chalupa-pod-cernou-5-o23653",
+        "price_en": "€100 (2 500 Kč) / night",
+        "conditions_en": "Two-night minimum; weekend €240 (6 000 Kč). A three-night total needs a quote. Electricity and local tax extra; linen included."
+      },
+      {
+        "name": "Apartmán AVIATIK",
+        "source": "https://www.apartmanyaviatik-cernydul.cz/ubytovani/cenik/",
+        "price_en": "≈€420 (10 500 Kč) / 3 nights",
+        "conditions_en": "Five-person calculation: €140 (3 500 Kč)/night. Two-night minimum, local tax included. Published tariff effective from 2023; confirm 2027 rate and extras."
+      },
+      {
+        "name": "Chalupa U Mariky",
+        "source": "https://www.e-chalupy.cz/chalupa-u-mariky-cista-v-krkonosich-pronajem-o16860",
+        "price_en": "≈€344 (8 591 Kč) / weekend",
+        "conditions_en": "2027 winter tariff; minimum two nights. Three-night price needs a quote: the earlier weekly-rate calculation was not a short-stay offer. Energy and local tax extra; refundable deposit €200 (5 000 Kč)."
+      },
+      {
+        "name": "Vila v Krkonoších",
+        "source": "https://www.pronajmy.cz/objekt/8mhgfuwmx4-vila-v-krkonosich",
+        "price_en": "€240 (6 000 Kč) / weekend",
+        "conditions_en": "Two-night minimum. Ask for Saturday–Tuesday and the exact villa/address. Energy, linen and cleaning included in the published tariff; local tax extra. February 2027 price unconfirmed."
+      },
+      {
+        "name": "Bonites · chata Krkonoše",
+        "source": "https://www.e-chalupy.cz/bonites-chata-krkonose-o4400",
+        "price_en": "€112 (2 800 Kč) / night",
+        "conditions_en": "Conditional reserve: published 2026 winter rules require five nights, so it does not fit our three-night draft unless the host makes an exception. Energy and cleaning included; confirm 2027 terms."
+      },
+      {
+        "name": "Chata Aperolka",
+        "source": "https://www.e-chalupy.cz/chata-aperolka-cista-v-krkonosich-pronajem-o16356",
+        "price_en": "≈€480–540 (12 000–13 500 Kč) / 3 nights",
+        "conditions_en": "Two-night minimum. Weekdays €140 (3 500 Kč), weekend nights €200 (5 000 Kč); confirm how Saturday–Tuesday is charged. Energy, linen and cleaning included; local tax extra. Deposit €160 (4 000 Kč)."
+      },
+      {
+        "name": "Apartmán Alfa 11",
+        "source": "https://www.blackmine.cz/cenik/",
+        "price_en": "€640 (16 000 Kč) / 3 nights",
+        "conditions_en": "Historical 2025/26 winter package, not a confirmed 2027 price. The working link now opens the owner’s tariff. That tariff includes energy and local fees; ask for 13–16 February and cancellation terms."
+      },
+      {
+        "name": "Apartmány Pampeliška · 3+kk",
+        "source": "https://e-penziony.cz/apartmany-pampeliska",
+        "price_en": "€160 (4 000 Kč) / night",
+        "conditions_en": "Conditional reserve: the price table allows three winter nights, but the description says seven. February has its own holiday season. Confirm minimum stay, five-person rate and cleaning before considering it suitable."
+      },
+      {
+        "name": "Happy Hill 32",
+        "source": "https://happyhill32.cz/cs/",
+        "price_en": "Three-night quote required",
+        "conditions_en": "Conditional reserve: published winter reference €960 (24 000 Kč) per week. This is not a three-night price. Confirm the exact dates, minimum stay, full fees and parking with the booking provider."
+      },
+      {
+        "name": "Chalupa MausHaus",
+        "source": "https://www.ceskehory.cz/ubytovani/chalupa-maushaus-rudnik.html",
+        "price_en": "Three-night quote required",
+        "conditions_en": "Conditional reserve: published winter reference €796 (19 900 Kč)/week. Short-stay terms and February 2027 total are unconfirmed; do not divide the weekly price into a bookable nightly rate."
+      }
+    ],
+    "additional_tariff_sources": {
+      "Happy Hill 32": "https://www.e-chalupy.cz/chata-32-happy-hill-pronajem-cista-v-krkonosich-o14103",
+      "MausHaus": "https://www.ceskehory.cz/ubytovani/cenik/chalupa-maushaus-rudnik.html"
+    }
+  },
+  "sources": {
+    "aviatik_terms": "https://www.apartmanyaviatik-cernydul.cz/ubytovani/ubytovaci-rad/",
+    "mariky_calendar": "https://www.chata.cz/chalupa/krkonose/cerny-dul/chalupa-u-mariky-CZ8163/?Adults=5&FromDate=13.02.2027&ToDate=16.02.2027&KidsCount=0",
+    "happy_hill_calendar": "https://myrent.interhome.com/cs/CZ5434.132.1/?duration=3&pax=5&currency=CZK&checkin=2027-02-13",
+    "villa_calendar": "https://www.pronajmy.cz/objekt/8mhgfuwmx4-vila-v-krkonosich",
+    "villa_tariff": "https://vilakrkonose.cz/cenik",
+    "villa_terms": "https://vilakrkonose.cz/obchodni-podminky"
+  },
+  "availability_scope": "All ten selected offers were shown available on Agoda at dated checks, not booked or held. Five adults is provisional.",
+  "research_expansion": {
+    "checked": "2026-11-20",
+    "date_occupancy": "2027-02-13 through 2027-02-16, five adults, one unit",
+    "group_method": "Five existing lower-cost properties retained. Mid range: five alternatives within €1000/3 nights, with some prices overlapping the lower-cost group.",
+    "unavailable_on_agoda": [
+      "Chalupa Krkonoše",
+      "Apartmán Jestřáb č. 23",
+      "Family 2 bedroom Ski&Bike Apartment with Terrase",
+      "Apartmánový dům Janský sen",
+      "Apartmán Janské Lázně",
+      "Chalupa Rozálka",
+      "Apartmány Čistá",
+      "Luční apartmán Jurajda",
+      "Apartmán U nás doma v chatě ALFA",
+      "Apartmány Pampeliška",
+      "Apartmán pod Kněžickým vrchem",
+      "Apartmán U Šáfy"
+    ],
+    "alternative_not_selected": "Penzion Měšťanský Dům: 629 PLN/night, free cancellation before 2027-02-11, 36m² two-bedroom apartment; kitchen and separate living room not confirmed. Not needed in main ten.",
+    "drive_times": "Rough planning estimates; Google Maps links supplied per property. Not live route quotes.",
+    "budget_recheck": {
+      "checked": "2026-11-20",
+      "replacements": [
+        "sarm",
+        "hertvinka",
+        "zizkova"
+      ],
+      "excluded": "Angel, Endemit, Aurum: user budget ceiling. Sovi dum: one bedroom; Cherry Trees Cabin: dormitory; Srdcovka: over budget; Sedlarik and Hradecek: sold out; Anety: unavailable; Liska: page unresolved."
+    }
+  },
+  "excluded_by_budget": [
+    {
+      "id": "angel",
+      "name": "Angel Apartment Černý Důl",
+      "loc": "Černý Důl 5",
+      "image": "angel-apartment-cerny-dul",
+      "slug": "angel-apartment-cerny-dul",
+      "price": [
+        "≈€1,046 / 3 nights",
+        "≈€1 046 / 3 ночи"
+      ],
+      "layout": [
+        "67 m² · Three-Bedroom Premium Apartment with Balcony · living area + kitchen. Important: the “third bedroom” is an open gallery above the kitchen; a guest review also describes one bedroom without an external window. Free parking.",
+        "67 м² · Three-Bedroom Premium Apartment with Balcony · гостиная с кухней. Важно: «третья спальня» — открытая галерея над кухней; в отзыве также отмечена спальня без наружного окна. Бесплатная парковка."
+      ],
+      "status": [
+        "Shown available · refundable offer · 5 adults",
+        "Показан доступным · возвратный тариф · 5 взрослых"
+      ],
+      "detail": [
+        "Choose Offer 2: 1,499 PLN/night, calculated 4,497 PLN/3 nights, including displayed taxes and fees. No payment until 4 February. The cheaper 1,402 PLN rate has different terms and is not used here. Refundable damage deposit €250 is separate from accommodation cost.",
+        "Выбирать Offer 2: 1 499 PLN/ночь, расчёт 4 497 PLN/3 ночи, включая показанные налоги и сборы. Оплата не ранее 4 февраля. Более дешёвый тариф 1 402 PLN имеет другие условия и здесь не использован. Возвратный залог €250 учитывается отдельно от стоимости проживания."
+      ],
+      "cancel": [
+        "Free cancellation before 6 February 2027, per the selected offer. The exact cutoff time and later penalty must be checked in the booking terms.",
+        "Бесплатная отмена до 6 февраля 2027 по выбранному тарифу. Точное время окончания и штраф после этого срока нужно проверить в условиях бронирования."
+      ],
+      "free": true,
+      "group": 1,
+      "url": "https://www.agoda.com/angel-apartment-cerny-dul/hotel/cerny-dul-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "availability": "shown_available",
+      "nightly_pln": 1499,
+      "calculated_3_nights_pln": 4497,
+      "offer": 2,
+      "free_cancellation": true,
+      "cancel_before": "2027-02-06",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "unit": "Three-Bedroom Premium Apartment with Balcony",
+      "area_m2": 67,
+      "drive": [
+        "In Černý Důl · check walk to ski school",
+        "В Černý Důl · уточнить путь пешком до школы"
+      ],
+      "origin": "Černý Důl 5, Czechia",
+      "checked": "2026-11-20",
+      "photo": {
+        "property": "angel-apartment-cerny-dul",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/323014930.jpg?k=7b8a40f2eaac465d100c383714eee37056c0403015c3178abde3b7aa06122b56&o=",
+        "local": "images/housing/angel-apartment-cerny-dul.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      },
+      "excluded_reason": "User ceiling €1000 for three nights; old selected rate exceeds it."
+    },
+    {
+      "id": "endemit",
+      "name": "Endemit Apartment",
+      "loc": "Vrchlabí · Pražská 1734",
+      "unit": "Superior Apartment with Balcony",
+      "area_m2": 96,
+      "nightly_pln": 1895,
+      "calculated_3_nights_pln": 5685,
+      "cancel_before": "2027-02-06",
+      "free_cancellation": true,
+      "availability": "shown_available",
+      "search_occupancy": "5 adults",
+      "layout": [
+        "2 bedrooms + common sofa bed for the fifth guest · full kitchen + dining area · balcony.",
+        "2 спальни и диван в общей зоне для пятого гостя · кухня и обеденная зона · балкон."
+      ],
+      "detail": [
+        "Choose Offer 2: parking, Wi-Fi and displayed taxes included. No payment until 4 February. The cheaper 1,769 PLN/night offer has different cancellation terms and is excluded.",
+        "Выбирать Offer 2: парковка, Wi-Fi и показанные налоги включены. Оплата не ранее 4 февраля. Более дешёвый тариф 1 769 PLN/ночь имеет другие условия отмены и здесь не использован."
+      ],
+      "url": "https://www.agoda.com/oasis-apartment/hotel/trutnov-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "image": "endemit",
+      "drive": [
+        "≈15–25 min by car",
+        "≈15–25 мин на машине"
+      ],
+      "origin": "Pražská 1734, Vrchlabí, Czechia",
+      "checked": "2026-11-20",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "group": 1,
+      "free": true,
+      "price": [
+        "≈€1,322 / 3 nights",
+        "≈€1 322 / 3 ночи"
+      ],
+      "photo": {
+        "property": "endemit",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/646569785.jpg?k=3fab6ce792de4a547aa0ce0fa561976953319e9be48891d960d0576998b7020c&o=",
+        "local": "images/housing/endemit.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      },
+      "excluded_reason": "User ceiling €1000 for three nights; old selected rate exceeds it."
+    },
+    {
+      "id": "aurum",
+      "name": "Resort Aurum · Deluxe Suite",
+      "loc": "Černý Důl 119",
+      "image": "resort-aurum-residence-b",
+      "slug": "resort-aurum-residence-b",
+      "price": [
+        "≈€1,443 / 3 nights",
+        "≈€1 443 / 3 ночи"
+      ],
+      "layout": [
+        "62 m² · 2 bedrooms + seating area · 2 queen beds + sofa bed for the fifth guest. Kitchen facilities in this exact suite are not confirmed. Parking included in the offer. An upgrade beyond the original mid-range budget.",
+        "62 м² · 2 спальни и зона отдыха · 2 двуспальные кровати и диван для пятого гостя. Кухня именно в этом номере не подтверждена. Парковка включена в предложение. Более дорогая альтернатива исходной средней категории."
+      ],
+      "status": [
+        "Shown available · refundable offer · 5 adults",
+        "Показан доступным · возвратный тариф · 5 взрослых"
+      ],
+      "detail": [
+        "Choose Offer 2: 2,068 PLN/night, calculated 6,204 PLN/3 nights, with taxes and breakfast. No payment until 28 January. The cheaper non-refundable rate is excluded. Confirm any separately payable local charges and deposit. Gallery photo shows the resort.",
+        "Выбирать Offer 2: 2 068 PLN/ночь, расчёт 6 204 PLN/3 ночи, с налогами и завтраком. Оплата не ранее 28 января. Более дешёвый невозвратный тариф не использован. Отдельные местные сборы и залог нужно уточнить. На фото — курортный комплекс."
+      ],
+      "cancel": [
+        "Free cancellation before 30 January 2027, per the selected offer. Check the exact cutoff time and later penalty before booking.",
+        "Бесплатная отмена до 30 января 2027 по выбранному тарифу. Перед бронью проверить точное время окончания и размер последующего штрафа."
+      ],
+      "free": true,
+      "group": 1,
+      "url": "https://www.agoda.com/resort-aurum-residence-b/hotel/cerny-dul-cz.html?checkIn=2027-02-13&los=3&adults=5&rooms=1&children=0",
+      "availability": "shown_available",
+      "nightly_pln": 2068,
+      "calculated_3_nights_pln": 6204,
+      "offer": 2,
+      "free_cancellation": true,
+      "cancel_before": "2027-01-30",
+      "exact_cutoff_time": null,
+      "late_penalty": null,
+      "unit": "Deluxe Suite",
+      "area_m2": 62,
+      "drive": [
+        "In Černý Důl · check walk to ski school",
+        "В Černý Důl · уточнить путь пешком до школы"
+      ],
+      "origin": "Černý Důl 119, Czechia",
+      "checked": "2026-11-20",
+      "photo": {
+        "property": "resort-aurum-residence-b",
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/940451488.jpg?k=7d8990418065588fefac79e9f81285458c88f23c4b331d800f3fe3596c77e8f6&o=",
+        "local": "images/housing/resort-aurum-residence-b.jpg",
+        "source": "Agoda / Booking.com property gallery",
+        "license": "Not verified; no free-use claim"
+      },
+      "excluded_reason": "User ceiling €1000 for three nights; old selected rate exceeds it."
+    }
+  ],
+  "mid_range_limit_eur_3_nights": 1000,
+  "mid_range_limit_basis": "Whole party, accommodation for 3 nights; selected refundable tariff where shown; EUR estimates at 4.30 PLN/EUR. Final extras and checkout price still require confirmation."
 }
