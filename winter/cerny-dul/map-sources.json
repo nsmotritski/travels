@@ -77,5 +77,21 @@
       "length": "550"
     }
   ],
-  "road": "Schematic via Lubawka and Trutnov; estimated winter allowance 2.5–3 hours before breaks; not a measured navigation route"
+  "road": "Schematic via Lubawka and Trutnov; estimated winter allowance 2.5–3 hours before breaks; not a measured navigation route",
+  "displayed_panorama": {
+    "retrieved": "2026-11-23",
+    "local_only": false,
+    "file": "images/piste-panorama-skimap.jpg",
+    "source_image": "https://files.skimap.org/bjzs1e951bkkgn841apfnemqclzp",
+    "source": "Skimap.org, exact image URL supplied by user",
+    "dimensions": [
+      800,
+      573
+    ],
+    "edition": "Unspecified historical map; numbers 21–30 differ from current numbering.",
+    "license": "Not verified",
+    "quality": "Original JPEG preserved unchanged. Full uncropped display capped at native width, plus native-resolution zoom/fit dialog. Labels are larger than in previous option; no claim of higher source resolution.",
+    "replaces": "Wintersport Live option 2 local preview",
+    "publication_requested": "2026-11-23"
+  }
 }
